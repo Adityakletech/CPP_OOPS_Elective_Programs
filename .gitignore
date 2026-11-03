@@ -1,0 +1,25 @@
+# Compiled Object and Executable Files
+*.o
+*.obj
+*.exe
+*.out
+a.out
+
+# Build Directories
+build/
+bin/
+Debug/
+Release/
+
+# Editor and IDE Directories
+.vscode/
+.vs/
+*.cbp
+*.layout
+*.depend
+
+# OS and Temporary Files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
